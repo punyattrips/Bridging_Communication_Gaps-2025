@@ -1,0 +1,256 @@
+.permission-screen {
+  background-color: #25a5a9;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.permission-screen .permission-2 {
+  background-color: #25a5a9;
+  overflow: hidden;
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.permission-screen .frame-4 {
+  height: 55px;
+  top: 676px;
+  background-color: #f2ede4;
+  display: flex;
+  flex-direction: column;
+  width: 374px;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 10px;
+  position: absolute;
+  left: 19px;
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: #114042;
+  box-shadow: 0px 4px 13px #0000000d;
+}
+
+.permission-screen .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-weight: 700;
+  color: #151515;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.permission-screen .allow-messages {
+  position: absolute;
+  width: 374px;
+  top: 537px;
+  left: 19px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #f2ede4;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.permission-screen .text-wrapper-5 {
+  position: absolute;
+  width: 335px;
+  top: 580px;
+  left: 39px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #edf1f3d6;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.permission-screen .frame-5 {
+  height: 54px;
+  top: 740px;
+  background-color: #00000080;
+  display: flex;
+  flex-direction: column;
+  width: 374px;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 10px;
+  position: absolute;
+  left: 19px;
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: #114042;
+  box-shadow: 0px 4px 13px #0000000d;
+}
+
+.permission-screen .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "IBM Plex Sans", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.permission-screen .overlap-group-wrapper {
+  position: absolute;
+  width: 413px;
+  height: 248px;
+  top: 254px;
+  left: 9px;
+}
+
+.permission-screen .overlap-group-3 {
+  position: relative;
+  width: 408px;
+  height: 253px;
+  left: -5px;
+}
+
+.permission-screen .shadow-2 {
+  position: absolute;
+  width: 408px;
+  height: 87px;
+  top: 166px;
+  left: 0;
+  object-fit: cover;
+}
+
+.permission-screen .matte {
+  position: absolute;
+  width: 260px;
+  height: 193px;
+  top: 0;
+  left: 70px;
+  background-image: url(./img/base.png);
+  background-size: 100% 100%;
+}
+
+.permission-screen .dots {
+  position: absolute;
+  width: 145px;
+  height: 40px;
+  top: 63px;
+  left: 57px;
+}
+
+.permission-screen .glossy {
+  position: absolute;
+  width: 260px;
+  height: 193px;
+  top: 0;
+  left: 70px;
+  background-image: url(./img/base-1.png);
+  background-size: 100% 100%;
+}
+
+.permission-screen .bars-status-on-light-3 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.permission-screen .battery-3 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.permission-screen .overlap-group-4 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #ffffff59;
+}
+
+.permission-screen .capacity-3 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #ffffff;
+  border-radius: 1.42px;
+}
+
+.permission-screen .cap-3 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.permission-screen .wifi-3 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.permission-screen .cellular-connection-3 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.permission-screen .time-style-2 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.permission-screen .time-3 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.permission-screen .iphone-x-home-2 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 883px;
+  left: 0;
+}
+
+.permission-screen .line-3 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #ffffff;
+  border-radius: 100px;
+}

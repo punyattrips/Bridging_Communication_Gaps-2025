@@ -1,0 +1,46 @@
+:root {
+  --primary-0: rgba(255, 255, 255, 1);
+  --secondary-500: rgba(26, 28, 30, 1);
+  --secondary-100: rgba(237, 241, 243, 1);
+  --body-small-medium-font-family: "Inter", Helvetica;
+  --body-small-medium-font-weight: 500;
+  --body-small-medium-font-size: 14px;
+  --body-small-medium-letter-spacing: -0.14px;
+  --body-small-medium-line-height: 139.9999976158142%;
+  --body-small-medium-font-style: normal;
+  --body-xsmall-regular-font-family: "Inter", Helvetica;
+  --body-xsmall-regular-font-weight: 400;
+  --body-xsmall-regular-font-size: 12px;
+  --body-xsmall-regular-letter-spacing: -0.12px;
+  --body-xsmall-regular-line-height: 150%;
+  --body-xsmall-regular-font-style: normal;
+  --body-small-semibold-font-family: "Inter", Helvetica;
+  --body-small-semibold-font-weight: 600;
+  --body-small-semibold-font-size: 14px;
+  --body-small-semibold-letter-spacing: -0.14px;
+  --body-small-semibold-line-height: 139.9999976158142%;
+  --body-small-semibold-font-style: normal;
+  --collection-1-white: rgba(238, 238, 238, 1);
+  --mode-grey: rgba(108, 114, 120, 1);
+  --mode-stroke: rgba(237, 241, 243, 1);
+}
+
+/*
+
+To enable a theme in your HTML, simply add one of the following data attributes to an HTML element, like so:
+
+<body data-mode-mode="lightmode">
+    <!-- the rest of your content -->
+</body>
+
+You can apply the theme on any DOM node, not just the `body`
+
+*/
+
+[data-mode-mode="lightmode"] {
+  --mode-stroke: rgba(237, 241, 243, 1);
+}
+
+[data-mode-mode="darkmode"] {
+  --mode-stroke: rgba(26, 28, 30, 1);
+}

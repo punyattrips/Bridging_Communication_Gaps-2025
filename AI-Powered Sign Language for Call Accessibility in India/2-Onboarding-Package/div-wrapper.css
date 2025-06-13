@@ -1,0 +1,255 @@
+.div-wrapper {
+  background-color: #f2ede4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-wrapper .onboarding-slide-3 {
+  background-color: #f2ede4;
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.div-wrapper .group-5 {
+  position: absolute;
+  width: 394px;
+  height: 144px;
+  top: 652px;
+  left: 11px;
+}
+
+.div-wrapper .text-wrapper-5 {
+  position: absolute;
+  width: 390px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.div-wrapper .text-wrapper-6 {
+  position: absolute;
+  width: 332px;
+  top: 42px;
+  left: 29px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #686868;
+  font-size: 16px;
+  text-align: justify;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.div-wrapper .group-6 {
+  position: absolute;
+  width: 88px;
+  height: 16px;
+  top: 831px;
+  left: 162px;
+}
+
+.div-wrapper .ellipse-13 {
+  left: 24px;
+  background-color: #c4c4c4;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.div-wrapper .ellipse-14 {
+  left: 0;
+  background-color: #c4c4c4;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.div-wrapper .ellipse-15 {
+  left: 48px;
+  background-color: #c4c4c4;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.div-wrapper .ellipse-16 {
+  left: 72px;
+  background-color: #25a5a9;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  border-radius: 8px;
+}
+
+.div-wrapper .overlap-6 {
+  position: absolute;
+  width: 412px;
+  height: 70px;
+  top: 847px;
+  left: 0;
+}
+
+.div-wrapper .fluent-arrow-next {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 0;
+  left: 331px;
+}
+
+.div-wrapper .vector-3 {
+  position: absolute;
+  width: 24px;
+  height: 29px;
+  top: 9px;
+  left: 10px;
+}
+
+.div-wrapper .iphone-x-home-3 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 36px;
+  left: 0;
+}
+
+.div-wrapper .line-4 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}
+
+.div-wrapper .bars-status-on-light-4 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.div-wrapper .battery-4 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.div-wrapper .overlap-group-3 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+}
+
+.div-wrapper .capacity-4 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.div-wrapper .cap-4 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.div-wrapper .wifi-4 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.div-wrapper .cellular-connection-4 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.div-wrapper .time-style-3 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.div-wrapper .time-4 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.div-wrapper .overlap-7 {
+  position: absolute;
+  width: 369px;
+  height: 473px;
+  top: 137px;
+  left: 16px;
+}
+
+.div-wrapper .mask-group-3 {
+  position: absolute;
+  width: 340px;
+  height: 340px;
+  top: 133px;
+  left: 20px;
+}
+
+.div-wrapper .chatgpt-image-may-3 {
+  position: absolute;
+  width: 203px;
+  height: 404px;
+  top: 0;
+  left: 166px;
+}
+
+.div-wrapper .chatgpt-image-may-4 {
+  position: absolute;
+  width: 154px;
+  height: 199px;
+  top: 22px;
+  left: 0;
+}

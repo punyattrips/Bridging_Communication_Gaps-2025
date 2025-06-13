@@ -1,0 +1,1130 @@
+.dialler-screen {
+  background-color: #f2ede4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dialler-screen .div-6 {
+  background-color: #f2ede4;
+  overflow: hidden;
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.dialler-screen .overlap-9 {
+  position: absolute;
+  width: 412px;
+  height: 106px;
+  top: 0;
+  left: 0;
+}
+
+.dialler-screen .frame-33 {
+  position: absolute;
+  width: 412px;
+  height: 62px;
+  top: 44px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.dialler-screen .material-symbols-8 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 51px;
+  left: 359px;
+}
+
+.dialler-screen .bars-status-on-light-6 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.dialler-screen .battery-6 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.dialler-screen .overlap-group-5 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+}
+
+.dialler-screen .capacity-6 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.dialler-screen .cap-6 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.dialler-screen .wifi-6 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.dialler-screen .cellular-connection-6 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.dialler-screen .time-style-5 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.dialler-screen .time-6 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.dialler-screen .chatgpt-image-may-4 {
+  position: absolute;
+  width: 73px;
+  height: 62px;
+  top: 44px;
+  left: 169px;
+}
+
+.dialler-screen .table-cell-13 {
+  width: 412px;
+  height: 47px;
+  gap: 8px;
+  padding: 12px 16px;
+  position: absolute;
+  top: 110px;
+  left: 0;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--tokens-border-border-border);
+}
+
+.dialler-screen .search-4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+}
+
+.dialler-screen .text-wrapper-46 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.50px;
+  font-family: var(--p-ui-medium-font-family);
+  font-weight: var(--p-ui-medium-font-weight);
+  color: var(--colors-gray-500);
+  font-size: var(--p-ui-medium-font-size);
+  letter-spacing: var(--p-ui-medium-letter-spacing);
+  line-height: var(--p-ui-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--p-ui-medium-font-style);
+}
+
+.dialler-screen .overlap-10 {
+  position: absolute;
+  width: 414px;
+  height: 757px;
+  top: 160px;
+  left: 0;
+}
+
+.dialler-screen .frame-34 {
+  display: flex;
+  flex-direction: column;
+  width: 412px;
+  height: 664px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 32px;
+  padding: 24px 16px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.dialler-screen .frame-35 {
+  display: flex;
+  flex-direction: column;
+  height: 660px;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -20.00px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.dialler-screen .frame-36 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.dialler-screen .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-color: var(--tokens-border-border-input);
+}
+
+.dialler-screen .button-6 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #25a5a9;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.dialler-screen .frame-37 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.dialler-screen .frame-38 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.dialler-screen .text-wrapper-47 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--colors-gray-800);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.dialler-screen .frame-39 {
+  display: flex;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.dialler-screen .table-cell-14 {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--tokens-border-border-border);
+}
+
+.dialler-screen .icon-phone-outgoing-4 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.dialler-screen .frame-40 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.dialler-screen .text-wrapper-48 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: var(--colors-gray-800);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.dialler-screen .text-wrapper-49 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--cms-hearinguru-com-inter-medium-12-font-family);
+  font-weight: var(--cms-hearinguru-com-inter-medium-12-font-weight);
+  color: var(--tokens-text-text-muted-foreground);
+  font-size: var(--cms-hearinguru-com-inter-medium-12-font-size);
+  letter-spacing: var(--cms-hearinguru-com-inter-medium-12-letter-spacing);
+  line-height: var(--cms-hearinguru-com-inter-medium-12-line-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--cms-hearinguru-com-inter-medium-12-font-style);
+}
+
+.dialler-screen .table-cell-15 {
+  justify-content: flex-end;
+  gap: 6px;
+  padding: 16px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--tokens-border-border-border);
+}
+
+.dialler-screen .frame-41 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.dialler-screen .text-wrapper-50 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--colors-gray-700);
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.dialler-screen .table-cell-16 {
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--tokens-border-border-border);
+}
+
+.dialler-screen .img-4 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.dialler-screen .text-wrapper-51 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #374151;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.dialler-screen .mage-dialer-keypad {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.dialler-screen .group-47 {
+  position: absolute;
+  width: 20px;
+  height: 22px;
+  top: 1px;
+  left: 2px;
+}
+
+.dialler-screen .icon-phone-outgoing-5 {
+  position: relative;
+  width: 16px;
+  height: 14px;
+}
+
+.dialler-screen .icon-play-circle {
+  position: relative;
+  width: 20px;
+  height: 16px;
+}
+
+.dialler-screen .mage-dialer-keypad-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 64px;
+  height: 64px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 16px;
+  position: absolute;
+  top: 505px;
+  left: 158px;
+  background-color: var(--green-600);
+  border-radius: 37px;
+  border: 1px solid;
+  border-color: var(--emerald-400);
+  box-shadow: 0px 16px 60px #00000080;
+}
+
+.dialler-screen .dial-BG {
+  position: absolute;
+  width: 398px;
+  height: 514px;
+  top: 145px;
+  left: 7px;
+  background-color: #f2f8ff;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.dialler-screen .group-48 {
+  position: absolute;
+  width: 371px;
+  height: 424px;
+  top: 216px;
+  left: 43px;
+}
+
+.dialler-screen .overlap-11 {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  top: 0;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-52 {
+  position: absolute;
+  width: 48px;
+  height: 53px;
+  top: 0;
+  left: 0;
+  font-family: "Barlow", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dialler-screen .voicecall-icon {
+  position: absolute;
+  width: 23px;
+  height: 9px;
+  top: 49px;
+  left: 13px;
+}
+
+.dialler-screen .overlap-12 {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  top: 0;
+  left: 139px;
+}
+
+.dialler-screen .text-wrapper-53 {
+  position: absolute;
+  width: 37px;
+  height: 9px;
+  top: 49px;
+  left: 5px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-13 {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  top: 0;
+  left: 278px;
+}
+
+.dialler-screen .text-wrapper-54 {
+  position: absolute;
+  width: 37px;
+  height: 9px;
+  top: 49px;
+  left: 6px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-14 {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  top: 94px;
+  left: 2px;
+}
+
+.dialler-screen .text-wrapper-55 {
+  position: absolute;
+  width: 36px;
+  height: 9px;
+  top: 49px;
+  left: 6px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-15 {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  top: 94px;
+  left: 140px;
+}
+
+.dialler-screen .overlap-16 {
+  position: absolute;
+  width: 49px;
+  height: 58px;
+  top: 94px;
+  left: 278px;
+}
+
+.dialler-screen .text-wrapper-56 {
+  position: absolute;
+  width: 49px;
+  height: 53px;
+  top: 0;
+  left: 0;
+  font-family: "Barlow", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dialler-screen .overlap-17 {
+  position: absolute;
+  width: 48px;
+  height: 59px;
+  top: 187px;
+  left: 2px;
+}
+
+.dialler-screen .text-wrapper-57 {
+  position: absolute;
+  width: 43px;
+  height: 9px;
+  top: 50px;
+  left: 2px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-18 {
+  position: absolute;
+  width: 48px;
+  height: 59px;
+  top: 187px;
+  left: 140px;
+}
+
+.dialler-screen .text-wrapper-58 {
+  position: absolute;
+  width: 42px;
+  height: 9px;
+  top: 50px;
+  left: 2px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-19 {
+  position: absolute;
+  width: 49px;
+  height: 59px;
+  top: 187px;
+  left: 278px;
+}
+
+.dialler-screen .text-wrapper-59 {
+  position: absolute;
+  width: 46px;
+  height: 9px;
+  top: 50px;
+  left: 2px;
+  font-family: "Blinker", Helvetica;
+  font-weight: 400;
+  color: #acacac;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.dialler-screen .overlap-20 {
+  position: absolute;
+  width: 48px;
+  height: 55px;
+  top: 280px;
+  left: 141px;
+}
+
+.dialler-screen .text-wrapper-60 {
+  width: 46px;
+  height: 10px;
+  top: 45px;
+  left: 1px;
+  font-family: "Blinker", Helvetica;
+  color: #acacac;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dialler-screen .overlap-21 {
+  position: absolute;
+  width: 48px;
+  height: 55px;
+  top: 280px;
+  left: 279px;
+}
+
+.dialler-screen .overlap-group-wrapper {
+  position: absolute;
+  width: 14px;
+  height: 23px;
+  top: 295px;
+  left: 20px;
+}
+
+.dialler-screen .overlap-group-6 {
+  position: relative;
+  height: 23px;
+}
+
+.dialler-screen .line-8 {
+  position: absolute;
+  width: 12px;
+  height: 23px;
+  top: 0;
+  left: 1px;
+}
+
+.dialler-screen .line-9 {
+  position: absolute;
+  width: 12px;
+  height: 23px;
+  top: 0;
+  left: 2px;
+}
+
+.dialler-screen .line-10 {
+  position: absolute;
+  width: 14px;
+  height: 2px;
+  top: 11px;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-61 {
+  width: 46px;
+  height: 10px;
+  top: 324px;
+  left: 5px;
+  font-family: "Blinker", Helvetica;
+  color: #acacac;
+  font-size: 12px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dialler-screen .call-icon {
+  position: absolute;
+  width: 153px;
+  height: 55px;
+  top: 369px;
+  left: 87px;
+}
+
+.dialler-screen .vector-wrapper {
+  position: relative;
+  height: 55px;
+  background-color: #41e447;
+  border-radius: 23.98px;
+}
+
+.dialler-screen .vector-8 {
+  position: absolute;
+  width: 27px;
+  height: 32px;
+  top: 12px;
+  left: 64px;
+}
+
+.dialler-screen .collapse-dial {
+  position: absolute;
+  width: 29px;
+  height: 28px;
+  top: 381px;
+  left: 20px;
+}
+
+.dialler-screen .vector-9 {
+  position: absolute;
+  width: 19px;
+  height: 21px;
+  top: 6px;
+  left: 5px;
+}
+
+.dialler-screen .delete {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  top: 383px;
+  left: 278px;
+}
+
+.dialler-screen .text-wrapper-62 {
+  position: absolute;
+  width: 236px;
+  height: 39px;
+  top: 183px;
+  left: 87px;
+  font-family: "Barlow", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dialler-screen .collapse {
+  position: absolute;
+  width: 35px;
+  height: 3px;
+  top: 164px;
+  left: 188px;
+}
+
+.dialler-screen .line-11 {
+  position: absolute;
+  width: 35px;
+  height: 1px;
+  top: -1px;
+  left: 0;
+}
+
+.dialler-screen .line-12 {
+  position: absolute;
+  width: 35px;
+  height: 1px;
+  top: 3px;
+  left: 0;
+}
+
+.dialler-screen .iphone-x-home-6 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 723px;
+  left: 0;
+}
+
+.dialler-screen .line-13 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}
+
+.dialler-screen .frame-42 {
+  position: absolute;
+  width: 400px;
+  height: 82px;
+  top: 659px;
+  left: 7px;
+  background-color: #25a5a9;
+  border-radius: 25px;
+}
+
+.dialler-screen .group-49 {
+  position: absolute;
+  width: 57px;
+  height: 60px;
+  top: 9px;
+  left: 9px;
+}
+
+.dialler-screen .group-50 {
+  position: absolute;
+  width: 59px;
+  height: 16px;
+  top: 44px;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-63 {
+  position: absolute;
+  width: 57px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.dialler-screen .mdi-recent-5 {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  top: 0;
+  left: 5px;
+}
+
+.dialler-screen .group-51 {
+  position: absolute;
+  width: 75px;
+  height: 56px;
+  top: 12px;
+  left: 82px;
+}
+
+.dialler-screen .group-52 {
+  position: absolute;
+  width: 77px;
+  height: 16px;
+  top: 40px;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-64 {
+  position: absolute;
+  width: 75px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.dialler-screen .lucide-contact-round-4 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 0;
+  left: 21px;
+}
+
+.dialler-screen .group-53 {
+  position: absolute;
+  width: 27px;
+  height: 30px;
+  top: 2px;
+  left: 3px;
+}
+
+.dialler-screen .group-54 {
+  position: absolute;
+  width: 66px;
+  height: 57px;
+  top: 12px;
+  left: 326px;
+}
+
+.dialler-screen .group-55 {
+  position: absolute;
+  width: 68px;
+  height: 16px;
+  top: 41px;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-65 {
+  position: absolute;
+  width: 66px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.dialler-screen .lets-icons-setting-5 {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 0;
+  left: 16px;
+}
+
+.dialler-screen .group-56 {
+  position: absolute;
+  width: 51px;
+  height: 53px;
+  top: 15px;
+  left: 174px;
+}
+
+.dialler-screen .group-57 {
+  position: absolute;
+  width: 53px;
+  height: 16px;
+  top: 37px;
+  left: 0;
+}
+
+.dialler-screen .text-wrapper-66 {
+  position: absolute;
+  width: 51px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.dialler-screen .vector-10 {
+  position: absolute;
+  width: 20px;
+  height: 27px;
+  top: 0;
+  left: 15px;
+}
+
+.dialler-screen .group-58 {
+  position: absolute;
+  width: 90px;
+  height: 57px;
+  top: 11px;
+  left: 232px;
+}
+
+.dialler-screen .group-59 {
+  position: absolute;
+  width: 90px;
+  height: 16px;
+  top: 41px;
+  left: 0;
+}
+
+.dialler-screen .group-60 {
+  position: relative;
+  width: 92px;
+  height: 16px;
+}
+
+.dialler-screen .text-wrapper-67 {
+  position: absolute;
+  width: 90px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.dialler-screen .material-symbols-9 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 0;
+  left: 26px;
+}
+
+.dialler-screen .iphone-x-home-7 {
+  position: absolute;
+  width: 473px;
+  height: 39px;
+  top: 1065px;
+  left: 0;
+}
+
+.dialler-screen .line-14 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 26px;
+  left: 169px;
+  background-color: #000000;
+  border-radius: 100px;
+}

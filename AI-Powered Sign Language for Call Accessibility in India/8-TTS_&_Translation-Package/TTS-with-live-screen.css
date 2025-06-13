@@ -1,0 +1,817 @@
+.TTS-with-live-screen {
+  background-color: #f2ede4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.TTS-with-live-screen .TTS-with-live-2 {
+  background-color: #f2ede4;
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.TTS-with-live-screen .overlap-5 {
+  position: absolute;
+  width: 412px;
+  height: 790px;
+  top: 0;
+  left: 0;
+}
+
+.TTS-with-live-screen .frame-6 {
+  position: absolute;
+  width: 1px;
+  height: 12px;
+  top: 489px;
+  left: 188px;
+}
+
+.TTS-with-live-screen .chat-container-2 {
+  display: flex;
+  width: 412px;
+  height: 632px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 24px;
+  position: absolute;
+  top: 143px;
+  left: 0;
+  background-color: var(--neutralneutral-50);
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #e9eaeb;
+}
+
+.TTS-with-live-screen .overlap-group-wrapper {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.TTS-with-live-screen .overlap-group-3 {
+  position: relative;
+  width: 345px;
+  height: 672px;
+  top: -40px;
+}
+
+.TTS-with-live-screen .chat-2 {
+  display: flex;
+  flex-direction: column;
+  width: 345px;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.TTS-with-live-screen .space-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 16px;
+  background-color: #d9d9d9;
+  opacity: 0;
+}
+
+.TTS-with-live-screen .customer-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  padding: 0px 0px 0px 40px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.TTS-with-live-screen .texting-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #25a5a9;
+  border-radius: 16px 16px 0px 16px;
+}
+
+.TTS-with-live-screen .text-wrapper-15 {
+  width: fit-content;
+  color: #ffffff;
+  white-space: nowrap;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  color: #ffffff;
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .frame-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.TTS-with-live-screen .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--12px-medium-font-family);
+  font-weight: var(--12px-medium-font-weight);
+  color: #e9eaeb;
+  font-size: var(--12px-medium-font-size);
+  letter-spacing: var(--12px-medium-letter-spacing);
+  line-height: var(--12px-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--12px-medium-font-style);
+}
+
+.TTS-with-live-screen .outline-messages-2 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+
+.TTS-with-live-screen .texting-6 {
+  display: flex;
+  align-items: flex-end;
+  align-self: stretch;
+  width: 100%;
+  background-color: #25a5a9;
+  border-radius: 16px 16px 0px 16px;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.TTS-with-live-screen .text-wrapper-18 {
+  align-self: stretch;
+  color: #ffffff;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .awesome-thanks-for-2 {
+  position: relative;
+  width: 273px;
+  height: 38px;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  color: #ffffff;
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .driver-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 0px 40px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.TTS-with-live-screen .texting-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 16px 16px 16px 0px;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.TTS-with-live-screen .element-2 {
+  width: fit-content;
+  color: #2c2d3a;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .no-problem-at-all-i-2 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  color: #2c2d3a;
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--12px-medium-font-family);
+  font-weight: var(--12px-medium-font-weight);
+  color: var(--neutralneutral-100);
+  font-size: var(--12px-medium-font-size);
+  letter-spacing: var(--12px-medium-letter-spacing);
+  line-height: var(--12px-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--12px-medium-font-style);
+}
+
+.TTS-with-live-screen .text-wrapper-20 {
+  width: fit-content;
+  color: #2c2d3a;
+  white-space: nowrap;
+  position: relative;
+  margin-top: -1.00px;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .i-ll-text-you-when-i-2 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  color: #2c2d3a;
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--16px-regular-font-style);
+}
+
+.TTS-with-live-screen .space-4 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 40px;
+  background-color: #d9d9d9;
+  opacity: 0;
+}
+
+.TTS-with-live-screen .line-9 {
+  width: 65px;
+  height: 1px;
+  top: 559px;
+  left: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .line-10 {
+  width: 213px;
+  height: 1px;
+  top: 452px;
+  left: 16px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .line-11 {
+  width: 233px;
+  height: 3px;
+  top: 332px;
+  left: 16px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .user-information-wrapper {
+  display: flex;
+  width: 248px;
+  height: 47px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 12px;
+  position: absolute;
+  top: 88px;
+  left: 85px;
+  background-color: transparent;
+}
+
+.TTS-with-live-screen .user-information-2 {
+  display: flex;
+  width: 181px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+}
+
+.TTS-with-live-screen .avatar-2 {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .information-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.TTS-with-live-screen .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--neutralneutral-900);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.TTS-with-live-screen .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutralneutral-500);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TTS-with-live-screen .title-2 {
+  display: flex;
+  width: 398px;
+  height: 37px;
+  align-items: center;
+  justify-content: space-between;
+  position: absolute;
+  top: 42px;
+  left: 7px;
+}
+
+.TTS-with-live-screen .button-md-4 {
+  position: relative;
+  width: 61px;
+  height: 66px;
+  margin-top: -10.50px;
+  margin-bottom: -18.50px;
+  margin-left: -7.00px;
+}
+
+.TTS-with-live-screen .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--neutralneutral-900);
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.TTS-with-live-screen .button-md-5 {
+  width: 61px;
+  margin-top: -10.50px;
+  margin-bottom: -18.50px;
+  margin-right: -7.00px;
+  position: relative;
+  height: 66px;
+}
+
+.TTS-with-live-screen .bars-status-on-light-3 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.TTS-with-live-screen .battery-3 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.TTS-with-live-screen .overlap-group-4 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+}
+
+.TTS-with-live-screen .capacity-3 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.TTS-with-live-screen .cap-3 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.TTS-with-live-screen .wifi-3 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.TTS-with-live-screen .cellular-connection-3 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.TTS-with-live-screen .time-style-2 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.TTS-with-live-screen .time-3 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.TTS-with-live-screen .button-2 {
+  position: absolute;
+  width: 81px;
+  height: 74px;
+  top: 78px;
+  left: 331px;
+}
+
+.TTS-with-live-screen .line-12 {
+  width: 412px;
+  height: 1px;
+  top: 141px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .line-13 {
+  position: absolute;
+  width: 412px;
+  height: 1px;
+  top: 83px;
+  left: 0;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .line-14 {
+  position: absolute;
+  width: 35px;
+  height: 1px;
+  top: 169px;
+  left: 323px;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .line-15 {
+  width: 273px;
+  height: 1px;
+  top: 288px;
+  left: 80px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .image-2 {
+  position: absolute;
+  width: 412px;
+  height: 65px;
+  top: 725px;
+  left: 0;
+  object-fit: cover;
+}
+
+.TTS-with-live-screen .rectangle-2 {
+  position: absolute;
+  width: 90px;
+  height: 53px;
+  top: 731px;
+  left: 309px;
+  background-color: #ffffff;
+}
+
+.TTS-with-live-screen .group-4 {
+  position: absolute;
+  width: 62px;
+  height: 41px;
+  top: 740px;
+  left: 325px;
+}
+
+.TTS-with-live-screen .vector-5 {
+  position: absolute;
+  width: 22px;
+  height: 21px;
+  top: 0;
+  left: 19px;
+}
+
+.TTS-with-live-screen .text-wrapper-24 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 500;
+  color: #117ec6;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.TTS-with-live-screen .img-wrapper {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 474px;
+  left: 340px;
+  background-color: #d9d9d9;
+  border-radius: 33.5px;
+  border: 3px solid;
+  border-color: #25a5a9;
+}
+
+.TTS-with-live-screen .fa-solid-american-2 {
+  position: absolute;
+  width: 51px;
+  height: 41px;
+  top: 10px;
+  left: 5px;
+}
+
+.TTS-with-live-screen .group-5 {
+  position: absolute;
+  width: 26px;
+  height: 44px;
+  top: 90px;
+  left: 16px;
+}
+
+.TTS-with-live-screen .vector-6 {
+  position: absolute;
+  width: 26px;
+  height: 18px;
+  top: 26px;
+  left: 0;
+}
+
+.TTS-with-live-screen .material-symbols-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.TTS-with-live-screen .overlap-6 {
+  position: absolute;
+  width: 412px;
+  height: 81px;
+  top: 836px;
+  left: 0;
+}
+
+.TTS-with-live-screen .chat-box-2 {
+  display: flex;
+  width: 412px;
+  height: 58px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.TTS-with-live-screen .input-2 {
+  display: flex;
+  width: 345px;
+  height: 51px;
+  align-items: center;
+  gap: 12px;
+  padding: 0px 16px;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #25a5a9;
+}
+
+.TTS-with-live-screen .type-a-message-2 {
+  position: relative;
+  flex: 1;
+  opacity: 0.3;
+  font-family: var(--16px-regular-font-family);
+  font-weight: var(--16px-regular-font-weight);
+  color: #2c2d3a;
+  font-size: var(--16px-regular-font-size);
+  letter-spacing: var(--16px-regular-letter-spacing);
+  line-height: var(--16px-regular-line-height);
+  font-style: var(--16px-regular-font-style);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.TTS-with-live-screen .bold-video-audio-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.TTS-with-live-screen .button-md-6 {
+  width: 60.5px;
+  margin-bottom: -8.00px;
+  position: relative;
+  height: 66px;
+}
+
+.TTS-with-live-screen .iphone-x-home-2 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 47px;
+  left: 0;
+}
+
+.TTS-with-live-screen .line-16 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}
+
+.TTS-with-live-screen .group-6 {
+  position: absolute;
+  width: 412px;
+  height: 44px;
+  top: 792px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #25a5a9;
+}
+
+.TTS-with-live-screen .overlap-7 {
+  position: absolute;
+  width: 46px;
+  height: 34px;
+  top: 5px;
+  left: 182px;
+  background-image: url(./img/rectangle-22-3.png);
+  background-size: 100% 100%;
+}
+
+.TTS-with-live-screen .change-2 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 6px;
+  left: 10px;
+}
+
+.TTS-with-live-screen .frame-8 {
+  display: flex;
+  width: 89px;
+  height: 19px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 11px;
+  left: 301px;
+}
+
+.TTS-with-live-screen .text-wrapper-25 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: var(--text);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.TTS-with-live-screen .vector-7 {
+  position: relative;
+  width: 13.22px;
+  height: 8.43px;
+}
+
+.TTS-with-live-screen .frame-9 {
+  display: flex;
+  width: 90px;
+  height: 19px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  position: absolute;
+  top: 11px;
+  left: 20px;
+}
+
+.TTS-with-live-screen .text-wrapper-26 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: var(--text);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}

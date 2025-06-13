@@ -1,0 +1,342 @@
+.sign-to-text-input {
+  background-color: #f2ede4;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-to-text-input .div-2 {
+  background-color: #f2ede4;
+  width: 412px;
+  height: 917px;
+  position: relative;
+}
+
+.sign-to-text-input .bars-status-on-light-2 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+}
+
+.sign-to-text-input .battery-2 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.sign-to-text-input .capacity-wrapper {
+  width: 24px;
+  height: 12px;
+  top: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+  position: absolute;
+  left: 0;
+}
+
+.sign-to-text-input .capacity-2 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.sign-to-text-input .img {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.sign-to-text-input .wifi-2 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.sign-to-text-input .cellular-connection-2 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.sign-to-text-input .time-wrapper {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.sign-to-text-input .time-2 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.sign-to-text-input .line-wrapper {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 883px;
+  left: 0;
+}
+
+.sign-to-text-input .line-2 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}
+
+.sign-to-text-input .overlap-2 {
+  width: 412px;
+  height: 836px;
+  top: 47px;
+  position: absolute;
+  left: 0;
+}
+
+.sign-to-text-input .avatar {
+  position: absolute;
+  width: 407px;
+  height: 679px;
+  top: 0;
+  left: 3px;
+}
+
+.sign-to-text-input .rounded-rectangle {
+  position: absolute;
+  width: 396px;
+  height: 150px;
+  top: 686px;
+  left: 8px;
+  background-color: #25a5a9;
+  border-radius: 20px;
+}
+
+.sign-to-text-input .text-wrapper-2 {
+  position: absolute;
+  top: 696px;
+  left: 99px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.sign-to-text-input .text-wrapper-3 {
+  position: absolute;
+  top: 696px;
+  left: 265px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.sign-to-text-input .grommet-icons-next {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 695px;
+  left: 239px;
+}
+
+.sign-to-text-input .fluent-live {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 700px;
+  left: 15px;
+}
+
+.sign-to-text-input .text-wrapper-4 {
+  position: absolute;
+  top: 699px;
+  left: 35px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #8a0101;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.sign-to-text-input .material-symbols {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 689px;
+  left: 31px;
+}
+
+.sign-to-text-input .wireframer {
+  position: absolute;
+  width: 335px;
+  height: 84px;
+  top: 730px;
+  left: 38px;
+}
+
+.sign-to-text-input .group {
+  position: absolute;
+  width: 327px;
+  height: 11px;
+  top: 0;
+  left: 0;
+}
+
+.sign-to-text-input .group-2 {
+  position: absolute;
+  width: 227px;
+  height: 11px;
+  top: 17px;
+  left: 0;
+}
+
+.sign-to-text-input .group-3 {
+  position: absolute;
+  width: 94px;
+  height: 11px;
+  top: 34px;
+  left: 0;
+}
+
+.sign-to-text-input .group-4 {
+  position: absolute;
+  width: 151px;
+  height: 11px;
+  top: 50px;
+  left: 0;
+}
+
+.sign-to-text-input .group-5 {
+  position: absolute;
+  width: 147px;
+  height: 11px;
+  top: 67px;
+  left: 0;
+}
+
+.sign-to-text-input .vector-wrapper {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 791px;
+  left: 353px;
+}
+
+.sign-to-text-input .vector-2 {
+  position: absolute;
+  width: 29px;
+  height: 25px;
+  top: 7px;
+  left: 5px;
+}
+
+.sign-to-text-input .fa-solid-american-wrapper {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 515px;
+  left: 339px;
+  background-color: #71717a;
+  border-radius: 33.5px;
+  border: 3px solid;
+  border-color: #1e3a3b;
+}
+
+.sign-to-text-input .fa-solid-american {
+  position: absolute;
+  width: 51px;
+  height: 41px;
+  top: 10px;
+  left: 5px;
+}
+
+.sign-to-text-input .group-6 {
+  position: absolute;
+  width: 171px;
+  height: 39px;
+  top: 636px;
+  left: 121px;
+}
+
+.sign-to-text-input .proicons-record {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 0;
+  left: 0;
+}
+
+.sign-to-text-input .group-7 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 4px;
+  left: 4px;
+}
+
+.sign-to-text-input .text-wrapper-5 {
+  position: absolute;
+  width: 130px;
+  top: 0;
+  left: 39px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffff00;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.sign-to-text-input .button-md {
+  position: absolute;
+  width: 62px;
+  height: 66px;
+  top: 1px;
+  left: 0;
+}
+
+.sign-to-text-input .button-md-2 {
+  position: absolute;
+  width: 62px;
+  height: 66px;
+  top: 621px;
+  left: 350px;
+}

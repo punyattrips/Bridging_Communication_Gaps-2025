@@ -1,0 +1,287 @@
+.incoming-full-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.incoming-full-screen .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 412px;
+  height: 917px;
+}
+
+.incoming-full-screen .overlap-3 {
+  position: relative;
+  height: 917px;
+}
+
+.incoming-full-screen .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 412px;
+  height: 873px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 24px 16px 48px;
+  position: absolute;
+  top: 44px;
+  left: 0;
+  background-color: #f2ede4;
+}
+
+.incoming-full-screen .frame-8 {
+  display: flex;
+  flex-direction: column;
+  height: 789px;
+  align-items: center;
+  justify-content: center;
+  gap: 42px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.incoming-full-screen .frame-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.incoming-full-screen .image {
+  position: relative;
+  width: 91px;
+  height: 91px;
+  margin-top: -3.50px;
+  border-radius: 700px;
+  border: 3.5px solid;
+  border-color: var(--blue-100);
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.incoming-full-screen .frame-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.incoming-full-screen .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: var(--m3-headline-large-emphasized-font-family);
+  font-weight: var(--m3-headline-large-emphasized-font-weight);
+  color: var(--colors-gray-800);
+  font-size: var(--m3-headline-large-emphasized-font-size);
+  text-align: center;
+  letter-spacing: var(--m3-headline-large-emphasized-letter-spacing);
+  line-height: var(--m3-headline-large-emphasized-line-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--m3-headline-large-emphasized-font-style);
+}
+
+.incoming-full-screen .frame-11 {
+  display: flex;
+  width: 240px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.incoming-full-screen .frame-12 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.incoming-full-screen .frame-13 {
+  position: relative;
+  width: 56px;
+  height: 56px;
+}
+
+.incoming-full-screen .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--cms-hearinguru-com-inter-regular-14-font-family);
+  font-weight: var(--cms-hearinguru-com-inter-regular-14-font-weight);
+  color: var(--colors-gray-700);
+  font-size: var(--cms-hearinguru-com-inter-regular-14-font-size);
+  text-align: right;
+  letter-spacing: var(--cms-hearinguru-com-inter-regular-14-letter-spacing);
+  line-height: var(--cms-hearinguru-com-inter-regular-14-line-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--cms-hearinguru-com-inter-regular-14-font-style);
+}
+
+.incoming-full-screen .img-wrapper {
+  display: flex;
+  width: 112px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 11.43px;
+  padding: 11.43px;
+  position: relative;
+  background-color: var(--red-500);
+  border-radius: 70.86px;
+}
+
+.incoming-full-screen .vector-2 {
+  position: relative;
+  width: 31.96px;
+  height: 13.78px;
+}
+
+.incoming-full-screen .frame-14 {
+  display: flex;
+  flex-direction: column;
+  width: 112px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 10.5px 14px;
+  position: relative;
+  background-color: var(--green-600);
+  border-radius: 32.38px;
+  border: 0.88px solid;
+  border-color: var(--emerald-400);
+}
+
+.incoming-full-screen .icon-phone-2 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin-top: -1.50px;
+  margin-bottom: -1.50px;
+}
+
+.incoming-full-screen .bars-status-on-light-3 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  background-color: #f2ede4;
+}
+
+.incoming-full-screen .battery-3 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.incoming-full-screen .overlap-group-2 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+}
+
+.incoming-full-screen .capacity-3 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.incoming-full-screen .cap-3 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.incoming-full-screen .wifi-3 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.incoming-full-screen .cellular-connection-3 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.incoming-full-screen .time-style-2 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.incoming-full-screen .time-3 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.incoming-full-screen .iphone-x-home-2 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 883px;
+  left: 0;
+}
+
+.incoming-full-screen .line-3 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}

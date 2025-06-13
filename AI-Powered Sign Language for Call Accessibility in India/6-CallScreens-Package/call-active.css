@@ -1,0 +1,318 @@
+.call-active {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.call-active .overlap-wrapper-2 {
+  background-color: #ffffff;
+  width: 412px;
+  height: 917px;
+}
+
+.call-active .overlap-4 {
+  position: relative;
+  height: 917px;
+}
+
+.call-active .frame-15 {
+  display: flex;
+  flex-direction: column;
+  width: 412px;
+  height: 873px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 24px 16px 48px;
+  position: absolute;
+  top: 44px;
+  left: 0;
+  background-color: #f2ede4;
+}
+
+.call-active .frame-16 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.call-active .icon-phone-outgoing-2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.call-active .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: var(--cms-hearinguru-com-inter-medium-12-font-family);
+  font-weight: var(--cms-hearinguru-com-inter-medium-12-font-weight);
+  color: var(--colors-gray-500);
+  font-size: var(--cms-hearinguru-com-inter-medium-12-font-size);
+  text-align: center;
+  letter-spacing: var(--cms-hearinguru-com-inter-medium-12-letter-spacing);
+  line-height: var(--cms-hearinguru-com-inter-medium-12-line-height);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--cms-hearinguru-com-inter-medium-12-font-style);
+}
+
+.call-active .frame-17 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 82px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.call-active .frame-18 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.call-active .image-2 {
+  position: relative;
+  width: 91px;
+  height: 91px;
+  margin-top: -3.50px;
+  border-radius: 700px;
+  border: 3.5px solid;
+  border-color: var(--blue-100);
+  background-image: url(./img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.call-active .frame-19 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.call-active .text-wrapper-8 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: var(--m3-headline-large-emphasized-font-family);
+  font-weight: var(--m3-headline-large-emphasized-font-weight);
+  color: var(--colors-gray-800);
+  font-size: var(--m3-headline-large-emphasized-font-size);
+  text-align: center;
+  letter-spacing: var(--m3-headline-large-emphasized-letter-spacing);
+  line-height: var(--m3-headline-large-emphasized-line-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--m3-headline-large-emphasized-font-style);
+}
+
+.call-active .frame-20 {
+  display: flex;
+  width: 240px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.call-active .frame-21 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.call-active .frame-22 {
+  width: 56px;
+  height: 56px;
+  gap: 10px;
+  padding: 10px;
+  background-color: var(--colors-gray-50);
+  border-radius: 62px;
+  border: 1px solid;
+  border-color: var(--colors-gray-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.call-active .vector-3 {
+  position: relative;
+  width: 22px;
+  height: 18px;
+}
+
+.call-active .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--cms-hearinguru-com-inter-regular-14-font-family);
+  font-weight: var(--cms-hearinguru-com-inter-regular-14-font-weight);
+  color: var(--colors-gray-700);
+  font-size: var(--cms-hearinguru-com-inter-regular-14-font-size);
+  text-align: right;
+  letter-spacing: var(--cms-hearinguru-com-inter-regular-14-letter-spacing);
+  line-height: var(--cms-hearinguru-com-inter-regular-14-line-height);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  font-style: var(--cms-hearinguru-com-inter-regular-14-font-style);
+}
+
+.call-active .img-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.call-active .frame-23 {
+  width: 64px;
+  height: 64px;
+  gap: 11.43px;
+  padding: 11.43px;
+  background-color: var(--red-500);
+  border-radius: 70.86px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.call-active .vector-4 {
+  position: relative;
+  width: 31.96px;
+  height: 13.78px;
+}
+
+.call-active .bars-status-on-light-4 {
+  position: absolute;
+  width: 412px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  background-color: #f2ede4;
+}
+
+.call-active .battery-4 {
+  position: absolute;
+  width: 27px;
+  height: 12px;
+  top: 19px;
+  left: 369px;
+}
+
+.call-active .overlap-group-3 {
+  position: absolute;
+  width: 24px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 2.83px;
+  border: 1.06px solid;
+  border-color: #00000059;
+}
+
+.call-active .capacity-4 {
+  position: relative;
+  width: 20px;
+  height: 8px;
+  top: 1px;
+  left: 1px;
+  background-color: #000000;
+  border-radius: 1.42px;
+}
+
+.call-active .cap-4 {
+  position: absolute;
+  width: 1px;
+  height: 4px;
+  top: 4px;
+  left: 25px;
+}
+
+.call-active .wifi-4 {
+  position: absolute;
+  width: 17px;
+  height: 12px;
+  top: 19px;
+  left: 347px;
+}
+
+.call-active .cellular-connection-4 {
+  position: absolute;
+  width: 19px;
+  height: 11px;
+  top: 19px;
+  left: 323px;
+}
+
+.call-active .time-style-3 {
+  position: absolute;
+  width: 61px;
+  height: 20px;
+  top: 15px;
+  left: 23px;
+}
+
+.call-active .time-4 {
+  position: absolute;
+  width: 59px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  color: #262628;
+  font-size: 15.9px;
+  text-align: center;
+  letter-spacing: -0.32px;
+  line-height: normal;
+}
+
+.call-active .iphone-x-home-3 {
+  position: absolute;
+  width: 412px;
+  height: 34px;
+  top: 883px;
+  left: 0;
+}
+
+.call-active .line-4 {
+  position: relative;
+  width: 135px;
+  height: 5px;
+  top: 21px;
+  left: 138px;
+  background-color: #000000;
+  border-radius: 100px;
+}
